@@ -40,9 +40,9 @@ Cosas que me quedan por hacer:
   <a href="https://www.reddit.com/"> Reddit </a>
 </p>
 
-<p align=right>
+<div align=right>
   <a href="https://www.youtube.com/?app=desktop&hl=es">
-    <img src="https://github.com/Dylan-DN/Dylan-DN/blob/main/Youtube.png" alt="Youtube" width="100"/>
+    <img src="https://github.com/Dylan-DN/Dylan-DN/blob/main/Youtube.png" alt="Youtube" width="100" />
   </a>
   <a href="https://www.instagram.com/">
     <img src="https://github.com/Dylan-DN/Dylan-DN/blob/main/Insta.jpg" alt="Instragram" width="100"/>
@@ -56,4 +56,4 @@ Cosas que me quedan por hacer:
   <a href="https://www.reddit.com/">
     <img src="https://github.com/Dylan-DN/Dylan-DN/blob/main/Reddit.jpg" alt="Reddit" width="100"/>
   </a>
-</p>
+</div>
