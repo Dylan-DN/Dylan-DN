@@ -1,4 +1,4 @@
-## Hola, mi nobre es Dylan
+## Hola, mi nombre es Dylan
 
 <p align=center>
   <img src="https://github.com/Dylan-DN/Dylan-DN/blob/main/Logo-removebg-preview.png" alt="logo" width="300"/>
@@ -6,7 +6,7 @@
 
 **Soy un programador en proceso.**
 
-*Me encantan los videojuegos y en el futuro quiero ser creador de videojuegos, para poder vivir una vida tranquila y poder entretener a los demas.*
+*Me encantan los videojuegos, el anime. el manga y manhwa(son como los mangas pero coreanos) y en el futuro quiero ser creador de videojuegos, para poder vivir una vida tranquila y poder entretener a los demas.*
 
 Tengo conocimientos en:
   - SQL
