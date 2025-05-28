@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hola, mi nobre es Dylan
 
-<!--
-**Dylan-DN/Dylan-DN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Soy un programador en proceso.**
 
-Here are some ideas to get you started:
+*Me encantan los videojuegos y en el futuro quiero ser creador de videojuegos, para poder vivir una vida tranquila y poder entretener a los demas.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tengo conocimientos en:
+  - SQL
+  - CSS
+  - HTML
+  - Java
+
+| Lo |
+|----|
+| Ladrones |
+
+- [ ] El
+- [ ] Yo
+
