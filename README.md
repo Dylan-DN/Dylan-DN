@@ -29,7 +29,7 @@ Cosas que me quedan por hacer:
 - [ ] Empezar a trabajar
 - [ ] Mientras trabajo comenzar con mis proyectos personales
 - [ ] Si le va bien actualizar y si le va mal empezar otro proyecto con un nuevo enfoque
-- [ ] Vivir tranquilamente actializando/creando proyectos
+- [ ] Vivir tranquilamente actualizando/creando proyectos
 
 
 <p align=left>
