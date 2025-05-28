@@ -42,18 +42,18 @@ Cosas que me quedan por hacer:
 
 <p align=right>
   <a href="https://www.youtube.com/?app=desktop&hl=es">
-    <img src="https://github.com/Dylan-DN/Dylan-DN/blob/main/download.png" alt="logo" width="100"/>
+    <img src="https://github.com/Dylan-DN/Dylan-DN/blob/main/Youtube.png" alt="Youtube" width="100"/>
   </a>
   <a href="https://www.instagram.com/">
-    <img src="https://github.com/Dylan-DN/Dylan-DN/blob/main/download.png" alt="logo" width="100"/>
+    <img src="https://github.com/Dylan-DN/Dylan-DN/blob/main/Insta.jpg" alt="Instragram" width="100"/>
   </a>
   <a href="https://www.facebook.com/?locale=es_ES">
-    <img src="https://github.com/Dylan-DN/Dylan-DN/blob/main/download.png" alt="logo" width="100"/>
+    <img src="https://github.com/Dylan-DN/Dylan-DN/blob/main/Facebook.jpg" alt="Facebook" width="100"/>
   </a>
   <a href="https://x.com/home">
-    <img src="https://github.com/Dylan-DN/Dylan-DN/blob/main/download.png" alt="logo" width="100"/>
+    <img src="https://github.com/Dylan-DN/Dylan-DN/blob/main/x.png" alt="X/Twiter" width="100"/>
   </a>
   <a href="https://www.reddit.com/">
-    <img src="https://github.com/Dylan-DN/Dylan-DN/blob/main/download.png" alt="logo" width="100"/>
+    <img src="https://github.com/Dylan-DN/Dylan-DN/blob/main/Reddit.jpg" alt="Reddit" width="100"/>
   </a>
 </p>
